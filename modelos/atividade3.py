@@ -14,7 +14,7 @@
 #     @property
 #     def saudacao(self):
 #         return f"Saudação, me chamo {self.nome}, e trabalho como {self.profissao}."
-   
+
 # pessoa1 = Pessoa("Jhulya", 22+1, "Médica")
 # print(pessoa1)              
 # pessoa1.aniversario()        
